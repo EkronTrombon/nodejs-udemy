@@ -2,7 +2,7 @@
 
 Este es un curso de NodeJs de la plataforma de formación Udemy.
 
-El curso está importido por el profesor Fernando Herrera.
+El curso está impartido por el profesor Fernando Herrera.
 
 Para poder usar el programa, ejecutar el comando
 
